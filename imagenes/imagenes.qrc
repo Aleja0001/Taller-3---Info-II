@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="imagenes">
+    <file>285641_id_user_icon.png</file>
+    <file>622405_lock_security_password_protect_safety_icon.png</file>
+    <file>1564535_customer_user_userphoto_account_person_icon.png</file>
+    <file>Imagenes.jpg</file>
+  </qresource>
+</RCC>
